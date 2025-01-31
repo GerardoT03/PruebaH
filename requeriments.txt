@@ -1,4 +1,7 @@
-***** pip install requeriments.txt*****-->Borra esta linea de texto para que no tengas problema
+Si no puedes utilizar el entorno virtual que te proporciono o si tienes alguna falla, estas son las librerias que necesitas
+para hacer el Deploy
+
+***** pip install requeriments.txt*****-->Borra esta linea de texto para que no tengas problemas
 asgiref===3.8.1
 certifi===2025.1.31
 charset-normalizer===3.4.1
